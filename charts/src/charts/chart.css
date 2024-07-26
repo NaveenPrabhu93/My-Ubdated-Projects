@@ -1,0 +1,29 @@
+.chart-1{
+    height: 600px;
+    width: 700px;
+    /* border-style: groove; */
+   
+    border-radius: 20px;
+}
+
+.main-div {
+    height: 500px;
+    width: 1250px;
+    /* border-style: groove; */
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.input-form{
+    height: 500px;
+    width: 500px;
+    /* border-style: groove; */
+    border-radius: 20px;
+}
+.title{
+    height: 50px;
+    width: 1150px;
+    
+    
+}

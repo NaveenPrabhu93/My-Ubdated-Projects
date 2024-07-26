@@ -1,0 +1,34 @@
+import React from 'react';
+import LineChart from './Chart';
+
+import Login from './Login';
+import login from './login.css';
+import Signup from './Signup';
+import signup from './signup.css'
+import { BrowserRouter as Router,Routes, Route } from 'react-router-dom';
+import BarChart from './BarChart';
+
+
+
+
+function App() {
+  return (
+    <>
+   
+    
+ <Router>
+  <Routes>
+    <Route path='/' element={<Login/>}/>
+    <Route path='/Chart' element={<BarChart/>}/>
+    <Route path='/Signup' element={<Signup/>}/>
+    <Route path='/Logout' element={<Login/>}/>
+    
+  </Routes>
+ </Router>
+    
+ 
+    </>
+  );
+}
+
+export default App;
