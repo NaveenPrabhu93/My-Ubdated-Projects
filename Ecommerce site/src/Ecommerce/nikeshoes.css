@@ -1,0 +1,31 @@
+.nike-shoes-main-div{
+    height:1000px;
+    width: 1260px;  
+    display: flex;
+    
+}
+.nav-bar{
+    height: 1000px;
+    width: 300px;
+   
+}
+.nike-card-holder{
+    height: 1000px;
+    width: 1000px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.nike-card{
+    height: 450px;
+    width: 250px;
+   margin-right: 20px;
+   margin-left: 20px;
+   margin-bottom: 20px;
+   
+}
+.sub-nav{
+    height: 40px;
+    width: 290px;
+    border-style: groove;
+    border-radius: 15px;
+}

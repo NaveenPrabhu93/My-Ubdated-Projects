@@ -1,0 +1,73 @@
+.main-div{
+    height: 450px;
+    width: 1270px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* background-color: rgb(250,240,228); */
+}
+img{
+    height: 500px;
+    width: 1270px;
+}
+.text-div{
+    height: 200px;
+    width: 800px;
+    position: absolute;
+    background-color: rgb(28,165,123);
+    display: flex;
+    border-radius: 20px;    
+}
+
+.text-div-1{
+    height: 200px;
+    width: 400px;
+    border-color: white;    
+}
+.image-div{
+    height: 200px;
+    width: 250px;
+    border-color: white;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 30px;
+
+}
+
+.shoe-img{
+    height: 500px;
+    width: 500px;
+}
+.brand-cart{
+    height: 850px;
+    width: 1270px;
+}
+.cart-holder{
+    display: flex;
+    align-content: center;
+    justify-items: center;
+    flex-wrap: wrap;
+    padding: 150px;
+}
+.cart-div{
+    height: 300px;
+    width: 300px;
+    border-style: groove;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: white;
+}
+.cart-div:hover{
+    box-shadow: 10px 10px 5px 12px lightblue;
+    transform: scale(1.1);
+}
+.brand-image{
+     height: 200px;
+     width: 290px;
+}
+
+
+

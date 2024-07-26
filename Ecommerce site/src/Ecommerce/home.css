@@ -1,0 +1,33 @@
+.header{
+    height: 50px;
+    width: 1270px;
+    border-style: groove;
+    background-color: rgb(35,47,62);
+    display: flex;
+  }
+  .footer{
+    height: 300px;
+    width: 1270px;
+    border-style: groove;
+    background-color: rgb(35,47,62);
+  }
+  .active-link{
+    text-decoration: none;
+    color: white;
+  }
+  .adjust-div{
+    width: 523px;
+    height: 50px;
+    /* border-style: groove; */
+  }
+  .nav.div{
+    height: 50px;
+    width: 823px;
+    /* border-style: groove; */
+  }
+  .adjust-div-1{
+    height: 50px;
+    width: 423px;
+    /* border-style: groove; */
+
+  }
