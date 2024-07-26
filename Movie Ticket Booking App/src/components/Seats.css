@@ -1,0 +1,122 @@
+.main-div{
+    /* border-style: groove; */
+    height: 800px;
+    width: 1270px;
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    background-color: rgb(64, 62, 62);
+}
+.seat-div{
+   border-style: groove;
+   height: 600px;
+   width: 600px;
+   display: flex;
+   flex-wrap: wrap;
+   align-items: center;
+   justify-content: center;
+   border-radius: 20px;
+
+}
+.button-1{
+    height: 20px;
+    width: 20px;
+    /* border-style: groove; */
+    }
+.freespace{
+    height: 70px;
+    width: 600px;
+    /* border-style: groove; */
+}
+.left-side{
+    height: 300px;
+    width: 250px;
+    /* border-style: groove; */
+}
+.middle-div{
+    height: 300px;
+    width: 70px;
+    /* border-style: groove; */
+
+}
+.right-side{
+    height: 300px;
+    width: 250px;
+    /* border-style: groove; */
+}
+.bottom-side{
+    height: 100px;
+    width: 600px;
+    /* border-style: groove; */
+}
+.button-2{
+    height: 50px;
+    width: 200px;
+    border-style: groove;
+    background-color: rgb(254,189,105);
+}
+p{
+    color: white;
+}
+
+/* movies css */
+.main-div-2{
+    /* border-style: groove; */
+    height: 1000px;
+    width: 1270px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(64, 62, 62);
+}
+.movies-div-3{
+    /* border-style: groove; */
+    height: 800px;
+    width: 1000px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.card-1{
+   height: 350px;
+   width: 200px;
+   border-style: groove;
+   display: flex;
+   flex-wrap: wrap;
+   align-items: center;
+   justify-content: center;
+   margin-left: 30px;
+   margin-bottom: 30px;
+}
+img{
+    height: 250px;
+    width: 190px;
+}
+.book{
+    background-color:rgb(254,189,105) ;
+}
+/* invoice css */
+.main-div-4{
+    /* border-style: groove; */
+    height: 600px;
+    width: 1270px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(64, 62, 62);
+}
+.main-div-5{
+    border-style: groove;
+    height: 500px;
+    width: 500px;
+    background-color: rgb(64, 62, 62);
+}
+.line{
+    color: white;
+    font-weight: bold;
+}
+.title{
+    color: white;
+}
