@@ -1,0 +1,19 @@
+{
+    "records": [
+      {
+        "name": "naveen",
+        "employeeid": "0001",
+        "checkin": "09:00am",
+        "checkout": "05:05pm",
+        "id": "50d7"
+      },
+      {
+        "id": "d380",
+        "name": "prabhu",
+        "employeeid": "0002",
+        "checkin": "09:00",
+        "checkout": "05:10"
+      }
+     
+    ]
+}
