@@ -1,0 +1,61 @@
+input{
+    width: 400px;
+   margin-bottom: 10px;
+}
+.Treatmentplan {
+    height: 70px;
+}
+.Prescription{
+    height: 70px;
+}
+.App{
+    display: flex;
+    border-style: groove; 
+    background-color: antiquewhite;
+}
+.links{
+    width: 200px;
+    border-style: groove;
+    background-color: rgb(27,165,124);
+   
+}
+.main-div{
+    background-color: antiquewhite;
+   height: 800px;
+    width: 1050px;
+  }
+  .view{
+    background-color: antiquewhite;
+    height: 800px;
+     width: 1050px;
+
+  }
+a {
+    text-decoration: none;
+    font-weight: bold; /* Make text bolder */
+    margin-right: 20px;
+    color: white;
+
+    
+  }
+  button{
+    height:50px;
+    width: 200px;
+  }
+  table, td, th {  
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    padding: 15px;
+  }
+ 
+  
+
+
