@@ -1,0 +1,70 @@
+.main-div{
+    /* border-style: groove; */
+    height: 650px;
+    width: 1250px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    background-color:   rgb(38,46,65);
+}
+
+.items{
+    /* border-style: groove; */
+    height: 650px;
+    width: 800px;
+}
+.bill{
+    border-style: groove;
+    border-radius: 20px;
+    height: 550px;
+    width: 350px;  
+}
+.div-bill{
+    
+    border-radius: 10px;
+    height: 35px;
+    width: 300px;
+    background-color: rgb(245,165,12);
+    color: black;
+}
+.button-items{
+    height: 100px;
+    width: 150px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.print{
+    background-color: green;
+    color: white;
+}
+.table{
+    height: 50px;
+    width: 100px;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-top: 5px;
+   
+   
+}
+.main-div-table{
+    width: 800px;
+    height: 300px;
+    /* border-style: groove; */
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+.heading{
+    font-size: xx-large;
+}
+.back{
+     background-color: rgb(38,46,65);
+    width: 1280px;
+    height: 500px;
+}
+p{color: white;}
+.bill-p{color: black;}
+
